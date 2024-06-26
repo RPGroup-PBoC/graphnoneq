@@ -16,4 +16,3 @@ Scripts used to generate the Figures of the SI:
 
 Scripts used to generate Equations in the SI:
 - Eq. 98 to 100: EqS98toS100.nb
-- 
