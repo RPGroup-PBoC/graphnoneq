@@ -6,7 +6,7 @@ We have two types of codes. Some scripts generate plots, which are featured in s
 Scripts used to generate the Figures of the SI:
 - Fig. S11: FigureS11.nb
 - Fig. S12: FigureS12.nb
-- Fig. S13: FigureS12.nb
+- Fig. S13: FigureS13.nb
 - Fig. S15:
 - Fig. S16:
 - Fig. S17:
