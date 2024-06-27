@@ -9,7 +9,7 @@ Scripts used to generate the Figures of the SI:
 - Fig. S13: FigureS13.nb
 - Fig. S15:
 - Fig. S16:
-- Fig. S17:
+- Fig. S17: FigureS17.py
 - Fig. S48:
 - Fig. S49:
 - Fig. S51:
